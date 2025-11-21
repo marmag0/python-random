@@ -24,7 +24,7 @@ def main():
     # instrukcja dla użytkownika i wskazanie wymaganego formatu
     print("\nEnter students' names and their scores (min. 5 pairs) in the format:")
     print("name1 score1")
-    print("For example: Alice 85 Bob 90")
+    print("For example: Alice 85")
     print("Insert each pair in a separate line. To stop inserting, enter 'end'\n")
 
     # przyjmowanie i sprawdzenie poprawności danych wejściowych
